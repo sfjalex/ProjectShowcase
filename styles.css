@@ -2,12 +2,7 @@ body{
     margin: 0;
     background-color: #201F2E;
     text-align: left;
-}
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }  
+} 
 header {
     background-color: #D54C34;
     color: white;
