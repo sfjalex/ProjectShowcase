@@ -32,7 +32,9 @@ p {
     text-align: left;
     font-family: Arial, sans-serif;
 }
-
+img {
+    float: left;
+}
 .column {
     float: left;
     width: 50%;
