@@ -39,6 +39,6 @@ p {
 }
   
 .image-container img {
-    max-width: 33%;
+    max-width: 500px;
     height: auto;
 }
