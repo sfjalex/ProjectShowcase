@@ -19,12 +19,27 @@ footer {
     text-align: left;
     font-family: Arial, sans-serif;
 }
-title {
+.section {
+    padding: 30px;
+}
+
+#title{
     background-color: #ffffff;
     color: #201F2E;
     padding: 10px;
     text-align: left;
     font-family: Arial, sans-serif;
+}
+
+#content{
+    margin: 0;
+    background-color: #201F2E;
+    text-align: left;
+}
+#mainTitle{
+    margin: 0;
+    background-color: #222133;
+    text-align: left;
 }
 
 h1 {
