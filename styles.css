@@ -38,7 +38,7 @@ footer {
 }
 #mainTitle{
     margin: 0;
-    background-color: #222133;
+    background-color: #201F2E;
     text-align: left;
 }
 
@@ -51,6 +51,13 @@ h1 {
 
 h2 {
     color: white;
+    padding: 10px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+h3 {
+    color: #201F2E;
     padding: 10px;
     text-align: left;
     font-family: Arial, sans-serif;
