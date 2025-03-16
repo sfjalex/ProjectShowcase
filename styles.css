@@ -19,6 +19,13 @@ footer {
     text-align: left;
     font-family: Arial, sans-serif;
 }
+title {
+    background-color: #ffffff;
+    color: #201F2E;
+    padding: 10px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
 
 h1 {
     color: white;
